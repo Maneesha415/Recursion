@@ -1,0 +1,5 @@
+Write a program to convert decimal number to binary using recursive function.
+
+
+a=int(input())
+print(bin(a)[2:])
